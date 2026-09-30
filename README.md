@@ -8,3 +8,4 @@ I am a passionate data enthusiast with a background in data analytics. I have so
 # Project 1 - Superstore Sales Dashboard using Power BI
 A powerful and intuitive data visualization tool built using Power BI. This dashboard offers a comprehensive view of sales data for consumable products, allowing you to quickly and easily analyze performance and identify trends.
 
+[Preview](./docs/guide.md).
