@@ -1,4 +1,4 @@
-# Data-Analytics-Portfolio
+# Willy's-Data-Analytics-Portfolio
 
 Welcome to my personal repository! Here you will find a collection of projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, analytics, and machine learning models.
 
